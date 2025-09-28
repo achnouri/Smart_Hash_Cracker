@@ -1,4 +1,4 @@
-# Smart Hash Cracker — README (short)
+# Smart Hash Cracker
 
 ##### - smart tool for MD5, SHA1, and SHA256 using a wordlist<br><br>
 
